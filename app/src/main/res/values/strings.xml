@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Converter</string>
+
+    <string name="radioButton_length">LengthUnits</string>
+    <string name="radioButton_time">TimeUnits</string>
+    <string name="radioButton_weight">WeightUnits</string>
+
+    <string name="textView_from">From:</string>d
+    <string name="textView_to">To:</string>
+    <string name="button_convert">Convert</string>
+</resources>
